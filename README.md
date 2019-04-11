@@ -1,9 +1,10 @@
 # TriviaGame
 
 ### Overview
-The Trivia game is about the Dallas Cowboys.  It goes through an array of ten questions.
-The player is presented with a list of questions with a radio button on each.  You choose
+The Trivia game is about the Dallas Cowboys.  It goes through an array of questions and displays them all on the page.  A radio button is displayed for each of the answers.  You choose
 a response and click Done and it verifies the response.
+
+The game will provides statistics the the Done button is pressed giving the number of questions answered correctly and incorrectly.
 
 
 # JavaScript Assignment 2
